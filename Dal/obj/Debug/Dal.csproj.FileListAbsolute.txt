@@ -1,0 +1,13 @@
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Dal\bin\Debug\Dal.dll
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Dal\bin\Debug\Dal.pdb
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Dal\bin\Debug\Bal.dll
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Dal\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Dal\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Dal\bin\Debug\System.Security.Permissions.dll
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Dal\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Dal\bin\Debug\Bal.pdb
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Dal\obj\Debug\Dal.dll
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Dal\obj\Debug\Dal.pdb

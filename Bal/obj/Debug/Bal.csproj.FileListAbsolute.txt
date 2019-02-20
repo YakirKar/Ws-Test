@@ -1,0 +1,6 @@
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Bal\bin\Debug\Bal.dll
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Bal\bin\Debug\Bal.pdb
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Bal\obj\Debug\Bal.csprojAssemblyReference.cache
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Bal\obj\Debug\Bal.csproj.CoreCompileInputs.cache
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Bal\obj\Debug\Bal.dll
+C:\Users\Yakir\Documents\Visual Studio 2017\Projects\Test\Bal\obj\Debug\Bal.pdb
