@@ -27,6 +27,7 @@ namespace Dal.DbModels
             //Dbcon.Get("spGetUserCount", typeof(int), CommandType.StoredProcedure, parms);
             //var val = pCount.Value;
             //get value from proc
+            //var b  = dbCon.Get("select Count(Id) from User_Table", System.Data.CommandType.Text, null, typeof(int)).Cast<int>().ToArray();
             return dbCon.Get("select * from User_Table",System.Data.CommandType.Text,null, typeof(User)).Cast<User>().ToList();
         }
 

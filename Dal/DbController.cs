@@ -56,8 +56,14 @@ namespace Dal
                 var obj = Activator.CreateInstance(objectType);
                 if (obj is IDbFiller)
                     objList.Add(((IDbFiller)obj).FillRow(row));
+                else if(obj is int || obj is DateTime)
+                {
+                    obj = row.Values.First();
+                    objList.Add(obj);
+                }
                 else
-                    objList.Add(row);
+                 objList.Add(row);
+
             }
             return (IEnumerable)objList;
         }
